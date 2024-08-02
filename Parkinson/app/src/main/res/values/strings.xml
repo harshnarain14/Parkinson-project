@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Parkinson</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ip_address">13.235.250.119</string>
+    <string name="token">26c5144c5b9c13</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="add_to_cart_btn">Add</string>
+    <string name="proceed_to_cart_btn">Proceed to Cart</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below:</string>
+    <string name="ordering_from">Ordering From: </string>
+    <string name="place_order">Place Order (Rs)</string>
+    <string name="shared_preferences">RestaurantPreference</string>
+    <string name="your_previous_orders_are_listed_below">Your previous orders :</string>
+    <string name="question1">Q1. What is Parkinson app doing?</string>
+    <string name="answer1">A1. This app takes the filtered value from adxl345 sensor attached with glove using HC-05 bluetooth module.</string>
+    <string name="question2">Q2. What is the purpose of this app?</string>
+    <string name="answer2">A2.User with this app can check their intensity of tremors that happen in their hand through graph and can also save his maximum amplitude of tremors on that day.  </string>
+    <string name="question3">Q3. Why we built this?</string>
+    <string name="answer3">A3. The primary objective of the Tremor Detection Glove with Haptic Feedback Motors and Android Application project is to develop a comprehensive solution for tremor detection, analysis, and support.</string>
+    <string name="question4">Q4. How are you guys different?</string>
+    <string name="answer4">A4. We try to give some Embedded solution for tremors causing disease because in the traditional method we have to go to the hospital and consult to the specific doctor to analyse tremors and detect possible cause of it.But with our app user can check their tremor intensity and also save for future reference so that it will also help doctors to diagnose the cause easily. </string>
+    <string name="foodzest">Parkinson</string>
+
+
+</resources>
